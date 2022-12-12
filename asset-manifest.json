@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ms-app/static/css/main.3d35862c.css",
+    "main.js": "/ms-app/static/js/main.1fffd3c3.js",
+    "index.html": "/ms-app/index.html",
+    "main.3d35862c.css.map": "/ms-app/static/css/main.3d35862c.css.map",
+    "main.1fffd3c3.js.map": "/ms-app/static/js/main.1fffd3c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d35862c.css",
+    "static/js/main.1fffd3c3.js"
+  ]
+}
